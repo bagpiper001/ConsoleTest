@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace DatabaseTest
 {
     
-    class Person
+    public class Person
     {
         String firstName;
         String middleName;

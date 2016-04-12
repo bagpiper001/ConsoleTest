@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DatabaseTest
 {
-    public class Wedstrijd
+    class test
     {
-        Person judokaRed;
-        Person judokaWhite;
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DatabaseTest
 {
-    class WedstrijdList
+    public class WedstrijdList
     {
         List<Person> personList;
         List<Wedstrijd> wedstrijdList;
@@ -25,6 +25,10 @@ namespace DatabaseTest
         {
             if (personList.Count < 2)
                 return;
+            else
+            {
+
+            }
         }
 
     }
